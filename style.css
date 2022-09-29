@@ -1,6 +1,6 @@
 * { margin:0; padding:0;}
 html, body { height:100%;}
-body { background:url(images/body-bg.gif) center top #37271c; font-family:Tahoma, Geneva, sans-serif; font-size:100%; line-height:1.125em; color:#bca695;}
+body { background:url(Images/body-bg.gif) center top #37271c; font-family:Tahoma, Geneva, sans-serif; font-size:100%; line-height:1.125em; color:#bca695;}
 
 input, select, textarea { font-family:Tahoma, Geneva, sans-serif; font-size:1em;}
 
