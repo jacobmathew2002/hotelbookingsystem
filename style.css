@@ -75,7 +75,7 @@ h3 { font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; color:#c30000; fo
 
 #header .nav { width:100%; overflow:hidden;}
 #header .nav li { display:inline;}
-#header .nav li a { display:block; float:left; width:156px; height:55px; line-height:52px; font-size:16px; text-transform:uppercase; font-weight:bold; color:#fff; text-decoration:none; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; margin-right:2px; background:url(images/nav-bg1.png) no-repeat left top;}
+#header .nav li a { display:block; float:left; width:156px; height:55px; line-height:52px; font-size:16px; text-transform:uppercase; font-weight:bold; color:#fff; text-decoration:none; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; margin-right:2px; background:url(Images/nav-bg1.png) no-repeat left top;}
 #header .nav li a:hover { background:url(Images/nav-bg2.png) no-repeat left top;}
 #header .nav li a.current { background:url(Images/nav-bg2.png) no-repeat left top;}
 
